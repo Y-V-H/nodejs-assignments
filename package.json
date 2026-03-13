@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-assignments",
+  "version": "1.0.0",
+  "description": "RS School",
+  "homepage": "https://github.com/Y-V-H/nodejs-assignments#readme",
+  "bugs": {
+    "url": "https://github.com/Y-V-H/nodejs-assignments/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-V-H/nodejs-assignments.git"
+  },
+  "license": "ISC",
+  "author": "Y-V-H",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "eslint": "^10.0.3",
+    "prettier": "^3.8.1"
+  }
+}
